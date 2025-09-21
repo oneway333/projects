@@ -1,0 +1,14 @@
+700行，吧
+
+1、把network测试测试，虽然不知道，是不是，能测试成功，就是了
+
+2、包的文件加载的那段，挺好的，就直接手写个数据
+
+3、这个路径下的，看起来，不错，可以抄一抄。就照着，这个，搞点东西，点一点，瞧一瞧
+基本上就是我的那个showModal activity，挺好的，完全就是个数据可分离的，挺好的
+testing-samples/runner/AndroidJunitRunnerSample/app/src/androidTest/java/com/example/android/testing/androidjunitrunnersample
+
+4、这个，也挺好的，单元测试，呢
+testing-samples/unit
+
+嗯，挺好的，明天，赶紧把，他们搞出来，呢。
