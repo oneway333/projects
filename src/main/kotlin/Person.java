@@ -1,6 +1,6 @@
 package main.kotlin;
 
-public class Person {
+public class Person extends People2 implements People0{
 
     public static void main(String[] args) {
 
@@ -18,5 +18,19 @@ public class Person {
         Shit(int age) {
             this.age = age;
         }
+    }
+
+    @Override
+    public void fuck(String name) {
+        super.fuck(name);
+    }
+}
+
+interface People0 {
+    void fuck(String name);
+}
+
+abstract class People2 {
+    public void fuck(String name) {
     }
 }
