@@ -1,5 +1,5 @@
 # projects
-- my test projects
+- my android project
 
 ## Fuck
 
